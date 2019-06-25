@@ -4,9 +4,11 @@ int main()
 {
     Arvore *a = criar();
 
+   /*Exercicio 18-2.1 Cormen*/
    a = inserir (a, 'F');
    a = inserir (a, 'S');
    a = inserir (a, 'Q');
+   imprimir (a, 0);
    a = inserir (a, 'K');
    a = inserir (a, 'C');
    a = inserir (a, 'L');

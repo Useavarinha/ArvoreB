@@ -1,4 +1,3 @@
-
 #pragma once
 
 #define TIPO char
@@ -19,12 +18,12 @@ typedef struct _node
 
 Arvore* criar ();
 
-void imprimir(Arvore* a, int nivel);/*Função para imprimir uma árvore B:*/
+void imprimir(Arvore* a, int nivel);
 
-int buscar(Arvore* a, TIPO chave);/*Função para buscar uma chave em uma árvore B:*/
+int buscar(Arvore* a, TIPO chave);
 
 Arvore* dividir_no(Arvore* x, int i, Arvore* y);/*Descrição: ????*/
 
 Arvore* inserir_arvore_nao_cheia(Arvore* x, TIPO k);/*Descrição: ????*/
 
-Arvore* inserir(Arvore* raiz, TIPO chave);/*Função para inserir uma chave em uma árvore B:*/
+Arvore* inserir(Arvore* raiz, TIPO chave);

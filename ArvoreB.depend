@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1558577670 source:c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\main.c
+1561437157 source:c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\main.c
 	"arvoreb.h"
 
-1558576273 c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\arvoreb.h
+1560979963 c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\arvoreb.h
 
-1558577341 source:c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\arvoreb.c
+1561437000 source:c:\users\eu\desktop\utfpr\estruturadedados2\arvoreb\arvoreb.c
 	<stdio.h>
 	<stdlib.h>
 	"arvoreb.h"
